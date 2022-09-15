@@ -1,2 +1,2 @@
-# -rea-do-retangulo
+# Área-do-retangulo
 Área de um retangulo
